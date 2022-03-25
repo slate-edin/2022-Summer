@@ -1,0 +1,19 @@
+## PDFLaTeX anciliary files:
+*.aux
+*.log
+*.out
+*.toc
+*.fot
+*.pdf
+
+## Bibliography auxiliary files (biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+
+## Build tool auxiliary files:
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
