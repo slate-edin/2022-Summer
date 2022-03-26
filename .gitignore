@@ -4,7 +4,6 @@
 *.out
 *.toc
 *.fot
-*.pdf
 
 ## Bibliography auxiliary files (biblatex/biber):
 *.bbl
